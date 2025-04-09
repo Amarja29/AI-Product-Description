@@ -3,4 +3,4 @@
   git clone https://github.com/Amarja29/AI-Product-Description.git
 
 2. Extract the Project Folder
-  Other instructions to run the application and readme file is inside the folder
+ Further instructions for running the application can be found in the README file located inside the project folder.
